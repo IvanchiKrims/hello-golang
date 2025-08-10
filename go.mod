@@ -1,3 +1,3 @@
 module github.com/IvanchiKrims/hello-golang
 
-go 1.20
+go 1.22
